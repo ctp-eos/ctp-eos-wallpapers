@@ -1,4 +1,4 @@
-## 📁 Wallpapers
+## 📁 CTP-EOS Wallpapers
 
 This repo contains CTP-EOS wallpapers organized by desktop environment, function, interest, or topic:
 ## CTP-EOS Linux Wallpaper Collections
