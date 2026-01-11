@@ -1,9 +1,9 @@
 ## 📁 CTP-EOS Wallpapers
 
-This repo contains CTP-EOS wallpapers organized by desktop environment, function, interest, or topic:
+This repo contains all of the CTP-EOS wallpapers organized by desktop environment, function, interest, or topic:
 ## CTP-EOS Linux Wallpaper Collections
 
-**CTP-EOS Wallpapers**
+**CTP-EOS Wallpapers** (master/meta)
 
 - [C-body Wallpapers](./cbody/)
 - [Conscious Wallpapers](./conscious/)
